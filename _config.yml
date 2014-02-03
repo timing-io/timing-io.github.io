@@ -1,0 +1,6 @@
+name: Timing.io
+safe: true
+lsi: false
+domain: http://timing.io
+pygments: true
+encoding: UTF-8
