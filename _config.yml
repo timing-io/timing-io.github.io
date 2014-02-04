@@ -1,6 +1,31 @@
 name: Timing.io
 safe: true
 lsi: false
-domain: http://timing.io
+domain:
 pygments: true
 encoding: UTF-8
+
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Timing.io
+tagline:          'A javascript library'
+description:      'An easily-embeddable utility, helps test performance of web applications'
+url:              http://timing.io
+
+author:
+  name:           'Max Diachenko'
+  url:            https://goo.gl/pWCewh
+
+paginate:         5
+
+# Custom vars
+version:          0.0.0
+
+github:
+  repo:           https://github.com/timing-io/timing.io
