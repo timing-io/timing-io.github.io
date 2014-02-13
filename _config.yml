@@ -1,7 +1,6 @@
 name: Timing.io
 safe: true
 lsi: false
-domain:
 pygments: true
 encoding: UTF-8
 
@@ -14,8 +13,8 @@ permalink:        pretty
 
 # Setup
 title:            Timing.io
-tagline:          'A javascript library'
-description:      'An easily-embeddable utility, helps test performance of web applications'
+tagline:          'The testing perfomence utility for web applications'
+description:      'The testing perfomence utility for web applications'
 url:              http://timing.io
 
 author:
